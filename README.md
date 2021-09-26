@@ -17,6 +17,8 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=84540743)
 
+
+
 ---
 Hola! Mi nombre es **Somicad**, soy un desarrollador especializado en el Lua.  Actualmente programo principalmente con **Html**, **Javascript**, **Nodejs** y **DiscordJS**, aunque sigo aprendiendo diferentes lenguajes...
 
