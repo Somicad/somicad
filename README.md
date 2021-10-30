@@ -20,7 +20,7 @@
 
 
 ---
-Hola! Mi nombre es **Somicad**, soy un desarrollador especializado en el Lua.  Actualmente programo principalmente con **Html**, **Javascript**, **Nodejs** y **DiscordJS**, aunque sigo aprendiendo diferentes lenguajes...
+Hola! Mi nombre es **Somicad**, soy un desarrollador especializado en el Lua.  Actualmente programo principalmente con **Html**, **Javascript**, **Nodejs** y **Discord.JS**, aunque sigo aprendiendo diferentes lenguajes...
 
 A su vez, cabe destacar que forme parte de **Caotic Robers**, colaborando mayoritariamente como **Scripter** y **Designer UI**, a su vez cabe destacar que Tengo Una Gran Cantidad De Proyectos Personales Desde **Juegos En Roblox** Hasta **Bots En Discord**
 
