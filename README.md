@@ -37,4 +37,4 @@ A su vez, cabe destacar que forme parte de **Caotic Robers**, colaborando mayori
 <summary>GitHub Stats</summary>
 <br>
  
-![Metrics](https://metrics.lecoq.io/Somicad?template=classic&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMadrid&config.animated=true)
+ ![Metrics](https://metrics.lecoq.io/Somicad?template=classic&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMadrid&config.animated=true)
