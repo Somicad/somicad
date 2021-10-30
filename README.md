@@ -29,7 +29,7 @@ A su vez, cabe destacar que forme parte de **Caotic Robers**, colaborando mayori
 
 **Finalmente Quiero Comentarte Que Tus Opiniones Son Importantes Y Recuerda Que Tomo el Futuro Y Lo Comvierto en El Presente**
 
-[Mi Discord 🔎](https://discord.com/users/793531067491156000)
+[🔎〢Mi Discord](https://discord.com/users/793531067491156000)
 <br>
 
 ---
