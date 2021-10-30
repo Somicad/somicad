@@ -29,6 +29,8 @@ A su vez, cabe destacar que forme parte de **Caotic Robers**, colaborando mayori
 
 **Finalmente Quiero Comentarte Que Tus Opiniones Son Importantes Y Recuerda Que Tomo el Futuro Y Lo Comvierto en El Presente**
 
+**Quiero comentar que todos mis proyectos son 100% de forma gratuita y no cobro dinero por estos **
+
 [🔎〢Mi Discord](https://discord.com/users/793531067491156000)
 <br>
 
