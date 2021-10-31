@@ -1,5 +1,5 @@
 
-<h2 align="center">👋 Hola! Soy Somi!</h2>
+<h2 align="center">👋 Hola Soy Somi!</h2>
 <p align="center">
   <a href="http://Somicad.tk">Portafolio</a> •
   <a href="https://discord.com/users/793531067491156000">Mi Discord!</a>
