@@ -19,25 +19,6 @@
   </a>
 </p>
 
-<h2 align="center">👋 Hola Soy Somi!</h2>
-<p align="center">
-  <a href="https://somicad.github.io/">Portafolio</a> •
-  <a href="https://discord.com/users/793531067491156000">Mi Discord!</a>
-</p>
-
-<p align="center">
-<a href="https://ko-fi.com/Somicaddev">
-   <img src="https://komarev.com/ghpvc/?username=chiquidev&color=596AEA" alt="Ko-Fi" />
-</a>
-<a href="https://ko-fi.com/Somicaddev">
-   <img src="https://img.shields.io/badge/-Support%20me%20on%20ko--fi!-596AEA" alt="Ko-Fi" />
-</a>
-</p>
-
-
-![](https://hit.yhype.me/github/profile?user_id=84540743)
-
-
 
 ---
 Hola! Mi nombre es **Somicad**, soy un desarrollador especializado en el Lua.  Actualmente programo principalmente con **Html**, **Javascript**, **Nodejs** y **Discord.JS**, aunque sigo aprendiendo diferentes lenguajes...
