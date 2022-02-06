@@ -26,8 +26,8 @@ Hola! Mi nombre es **Somicad**, soy un desarrollador especializado en el Lua.  A
 A su vez, cabe destacar que forme parte de **Caotic Robers**, colaborando mayoritariamente como **Scripter** y **Designer UI**, a su vez cabe destacar que Tengo Una Gran Cantidad De Proyectos Personales Desde **Juegos En Roblox** Hasta **Bots En Discord**
 
 - 🌿 Puedes contactar conmigo a traves de `contacto@somicad.me`.
-- 🌴 Me Gusta seguir aprendiendo cosas y enseñarle a los demas
-- 🔌 Estoy especializado principalmente en la gestión de servidores Linux.
+- 🌴 Me Gusta seguir aprendiendo cosas y enseñarle a los demas.
+- 🔌 Estoy especializado principalmente en el desarrollo de webs.
 
 **Finalmente Quiero Comentarte Que Tus Opiniones Son Importantes Y Recuerda Que Tomo el Futuro Y Lo Comvierto en El Presente**
 
